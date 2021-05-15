@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986777011025",
+    "project_id": "tabu-2c513",
+    "storage_bucket": "tabu-2c513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986777011025:android:87d7658bf3041503fa4970",
+        "android_client_info": {
+          "package_name": "com.example.taboo_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986777011025-538j6uucom9oc9lectke5vod4nj4vp1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUW5RnrkyF8QH6lkHa5aHo7Jjn_VH-hoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986777011025-538j6uucom9oc9lectke5vod4nj4vp1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
